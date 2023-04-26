@@ -1,0 +1,2 @@
+C:\Users\MZC01-SHYUN051\webapp\bin\Debug\net6.0\webapp.exe
+C:\Users\MZC01-SHYUN051\webapp\bin\Debug\net6.0\webapp.dll
